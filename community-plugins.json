@@ -19248,5 +19248,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+    "id": "inline-note-popover",
+    "name": "Tooltip Note Popover Modal",
+    "author": "problem7787",
+    "description": "Create custom toltip like modal while hovering over a custom formatted link.",
+    "repo": "problem7787/obsidian_inline_note_popver"
   }
 ]

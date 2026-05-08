@@ -19253,7 +19253,7 @@
     "id": "inline-note-popover",
     "name": "Tooltip Note Popover Modal",
     "author": "problem7787",
-    "description": "Create custom toltip like modal while hovering over a custom formatted link.",
+    "description": "Creates custom toltip like modal while hovering over a custom formatted link.",
     "repo": "problem7787/obsidian_inline_note_popver"
   }
 ]
